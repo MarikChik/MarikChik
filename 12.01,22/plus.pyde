@@ -1,0 +1,20 @@
+size(600,600)
+ellipse(300,250,100,100)
+translate(100,0)  # право
+ellipse(300,250,100,100)
+translate(100,0)
+ellipse(300,250,100,100)
+translate(-200,100)  # вниз
+ellipse(300,250,100,100)
+translate(0,100)
+ellipse(300,250,100,100)
+translate(-100,-200)  # влево
+ellipse(300,250,100,100)
+translate(-100,0)
+ellipse(300,250,100,100)
+translate(200,0)
+ellipse(300,250,100,100)
+translate(0,-100)
+ellipse(300,250,100,100)
+translate(0,-100)
+ellipse(300,250,100,100)
